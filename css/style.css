@@ -1,5 +1,11 @@
 .altezza{
-    height: 400px;
+    height: 200px;
     width: 100%;
     background-color: red;
+}
+.row-color-red{
+    background-color: aqua;
+}
+.bg-black{
+    background-color: black;
 }
