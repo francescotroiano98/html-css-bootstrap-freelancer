@@ -1,16 +1,15 @@
-.altezza{
-    height: 200px;
-    width: 100%;
-    background-color: red;
-}
-.row-color-red{
+.row-color-aqua{
     background-color: aqua;
 }
 .bg-black{
     background-color: black;
 }
 .line{
-    width: 100%;
+    width: 100px;
     height: 2px;
     background-color: black;
+}
+.img-size{
+    width:200px;
+    height: 200px;
 }
