@@ -1,3 +1,6 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .bg-color-watergreen{
     background-color:#1abc9c;
 }
@@ -29,4 +32,7 @@
 }
 .border i{
    font-size: 1.4em;
+}
+.my_w-60{
+    width: 60%;
 }
